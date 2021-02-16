@@ -1,0 +1,17 @@
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\bin\Debug\egeEren.exe.config
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\bin\Debug\egeEren.exe
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\bin\Debug\egeEren.pdb
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\bin\Debug\tr\egeEren.resources.dll
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\egeEren.csprojAssemblyReference.cache
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\egeEren.anaMenu.resources
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\egeEren.oyun.resources
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\egeEren.Properties.Resources.resources
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\egeEren.anaMenu.tr.resources
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\egeEren.csproj.GenerateResource.cache
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\egeEren.csproj.CoreCompileInputs.cache
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\tr\egeEren.resources.dll
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\egeEren.exe
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\egeEren.pdb
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\egeEren.liderlik.resources
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\egeEren.giris.resources
+C:\Users\Balkabağı Dükü\source\repos\egeEren19100001027\egeEren\obj\Debug\egeEren.kayitOl.resources
